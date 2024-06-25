@@ -6,3 +6,6 @@
 build/
 pubspec.lock
 .vscode/
+
+pubspec_overrides.yaml
+
